@@ -1,7 +1,7 @@
 # nltknaivebayes
 
 
-Simple sentiment analysis with NLTK Naive Bayes classifier
+Sentiment analysis with NLTK Naive Bayes classifier
 
 
 
@@ -12,4 +12,4 @@ Simple sentiment analysis with NLTK Naive Bayes classifier
 
 
 
-**Built during my college years**
+*Built during my college years*
